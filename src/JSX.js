@@ -1,7 +1,7 @@
 import React from "react";
 import "./JSX.css"; // 2. css module
 import styled from "styled-components"; // 3.styled-components 방법
-import "./Taeyoung";
+import "./Taeyoung"; 
 
 export default function JSX() {
 
