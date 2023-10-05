@@ -5,7 +5,7 @@ export default function JSX() {
     <div>
       <h1>Hello React!</h1>
       <h2>잘 작동하나요?</h2>
-      <h3>만나서 반갑습니당 :></h3>
+      <h3>만나서 반갑습니당 :> </h3>
     </div>
   );
 }
